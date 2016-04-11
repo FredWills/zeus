@@ -1,5 +1,5 @@
-/target
-/.idea
+**/target
+**/.idea
 *.class
 
 # Package Files #
@@ -8,4 +8,9 @@
 *.ear
 
 
+*.iml
+**/bin
+**/.DS_Store
+.DS_Stor
 
+out/
