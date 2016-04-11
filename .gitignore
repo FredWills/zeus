@@ -6,3 +6,21 @@
 .DS_Store
 /build
 /captures
+
+**/target
+**/.idea
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+*.iml
+**/bin
+**/.DS_Store
+.DS_Stor
+
+out/
+
