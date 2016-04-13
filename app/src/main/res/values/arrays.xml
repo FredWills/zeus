@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_type">
+        <item>灯光</item>
+        <item>电器</item>
+        <item>窗帘</item>
+        <item>插座</item>
+    </string-array>
+
+    <string-array name="sensor_type">
+        <item>温湿度传感器</item>
+        <item>CO2浓度传感器</item>
+        <item>光传感器</item>
+    </string-array>】
+
+    <string-array name="check_content">
+        <item>温度</item>
+        <item>CO2浓度</item>
+        <item>光强度</item>
+    </string-array>
+
+</resources>
